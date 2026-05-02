@@ -52,5 +52,4 @@ To run this project locally on your machine:
 ## 📬 Contact & Links
 
 - **LinkedIn:** [https://www.linkedin.com/in/amshivang/](https://www.linkedin.com/in/amshivang/)
-- **GitHub:** [https://github.com/amshivang](https://github.com/amshivang)
 - **Email:** linkwithshivang@gmail.com
