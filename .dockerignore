@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Development artifacts
+.git/
+.gitignore
+.env
+*.md
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Local model (will be regenerated during Docker build)
+# Data/model.pkl  ← intentionally NOT ignored so it can be used if present
+
+# Windows artifacts
+Thumbs.db
+desktop.ini
