@@ -1,6 +1,6 @@
 # SecurePass 🛡️
 
-**Live Demo:** [https://securepass-6fy6xd7vlq-uc.a.run.app](https://securepass-6fy6xd7vlq-uc.a.run.app)
+**Live Demo:** [(https://securepass-318673409331.us-central1.run.app/)](https://securepass-318673409331.us-central1.run.app/)
 
 SecurePass is an intelligent, real-time password security analyzer powered by Machine Learning. Rather than relying on simple regex rules, it uses a trained Random Forest classifier and advanced feature engineering to evaluate the true strength of your passwords, estimate brute-force crack times, and provide targeted, actionable advice to help you secure your accounts.
 
